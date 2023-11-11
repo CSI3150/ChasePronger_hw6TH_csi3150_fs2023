@@ -1,0 +1,17 @@
+.travel-blog {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .images-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .images-container img {
+    width: 30%; /* Adjust the width as necessary */
+    height: auto;
+    object-fit: cover; /* This ensures that the aspect ratio of images is maintained */
+  }
+  

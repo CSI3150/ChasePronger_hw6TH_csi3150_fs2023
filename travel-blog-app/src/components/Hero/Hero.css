@@ -1,0 +1,23 @@
+.hero-container {
+    background-image: url('../../assets/images/HeroSection-bg-image.jpg'); /* Adjust this line */
+    height: 400px; /* or desired height */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Adjust text color as necessary */
+    text-align: center;
+  }
+  
+  .hero-container h1 {
+    font-size: 3em; /* Adjust size as necessary */
+    margin: 0;
+  }
+  
+  .hero-container h2 {
+    font-size: 1.5em; /* Adjust size as necessary */
+    margin: 0;
+  }
+  
